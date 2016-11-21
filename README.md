@@ -1,9 +1,7 @@
 # NYC-CitiBike-Program
 ## The Data Incubator Challenge Questions: The Citi Bike Program in New York City.
 
-### The Citi Bike Program (https://www.citibikenyc.com/) is a bike sharing system in New York City. Cyclists can rent a bicycle from one of many stations around the city and return it to any other station. 
-Citi Bike has released ridership information to the public. This contains a list of all rides taken, their start and end locations, 
-their start and end times, and limited demographic information about the rider. We will be considering the data from 2015 only.
+### The Citi Bike Program (https://www.citibikenyc.com/) is a bike sharing system in New York City. Cyclists can rent a bicycle from one of many stations around the city and return it to any other station. Citi Bike has released ridership information to the public. This contains a list of all rides taken, their start and end locations, their start and end times, and limited demographic information about the rider. We will be considering the data from 2015 only.
 
 Q1: What is the median trip duration, in seconds?
 
@@ -31,3 +29,9 @@ pass which allows 30-minute rides. Subscribers buy yearly passes that allow 45-m
 Q8: Most of the time, a bike will begin a trip at the same station where its previous trip ended. Sometimes a bike will be moved by the
 program, either for maintenance or to rebalance the distribution of bikes. What is the average number of times a bike is moved
 during this period, as detected by seeing if it starts at a different station than where the previous ride ended?
+
+### Requirements: 
+python, pandas, numpy
+
+### Solution:
+Cane be found here: [solution](RunMe.ipynb)
