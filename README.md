@@ -34,4 +34,4 @@ during this period, as detected by seeing if it starts at a different station th
 python, pandas, numpy
 
 ### Solution:
-Cane be found here: [solution](RunMe.ipynb)
+Can be found here: [solution](RunMe.ipynb)
